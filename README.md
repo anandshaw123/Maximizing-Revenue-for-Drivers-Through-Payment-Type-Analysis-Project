@@ -23,6 +23,8 @@ This Project main goal is run an Hypothesis test to examine the relationship bet
 
 **Outliers Detection**
 
+**Removing Outliers**
+
 **descriptive statistics**
 
 **Normal Distribution Check**
