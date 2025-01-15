@@ -19,7 +19,7 @@ This Project main goal is run an Hypothesis test to examine the relationship bet
 
 **Exploratory Data Analysis (EDA)**
 
-**Extracting The Information from the data**
+**Extracting The Information from the Features**
 
 **Outliers Detection**
 
