@@ -17,19 +17,19 @@ This Project main goal is run an Hypothesis test to examine the relationship bet
 
 ## The Tasks involved in this project include:
 
-**Exploratory Data Analysis (EDA)**
+- **Exploratory Data Analysis (EDA)**
 
-**Extracting The Information from the Features**
+- **Extracting The Information from the Features**
 
-**Outliers Detection**
+- **Outliers Detection**
 
-**Removing Outliers**
+- **Removing Outliers**
 
-**descriptive statistics**
+- **descriptive statistics**
 
-**Normal Distribution Check**
+- **Normal Distribution Check**
 
-**Hypothesis Testing**
+- **Hypothesis Testing**
 
 
 
