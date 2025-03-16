@@ -1,6 +1,13 @@
 # Maximizing Revenue For Drivers Through Payment Type Analysis
 
 
+
+
+![ Maximizing Revenue For Drivers Through Payment Type Analysis](https://github.com/user-attachments/assets/6a5f0d1c-d6a7-484c-8655-055b519971f7)
+
+
+
+
 ## Problem Statement:
 
 In the fast-paced taxi booking sector, making the most of revenue is essential from long-time success and driver happiness.
