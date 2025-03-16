@@ -8,7 +8,7 @@
 
 
 
-## Problem Statement:
+## ❓Problem Statement:
 
 In the fast-paced taxi booking sector, making the most of revenue is essential from long-time success and driver happiness.
 
@@ -16,13 +16,13 @@ Our goal is to use data-driven insights to maximise revenue streams for taxi dri
 
 
 
-## Objective:
+## 🎯Objective:
 This Project main goal is run an Hypothesis test to examine the relationship between the total fare and the method of payment. We use Python Hypothesis testing and descriptive statistics to extract useful information that can help taxi drivers generate more cash. In particular we want to find out if there is a big difference in the fares for those who pay with credit cards versus those who pay with cash.
 
 
 
 
-## The Tasks involved in this project include:
+## 🛠️The Tasks involved in this project include:
 
 - **Exploratory Data Analysis (EDA)**
 
@@ -40,7 +40,7 @@ This Project main goal is run an Hypothesis test to examine the relationship bet
 
 
 
-## **Libraries:**
+## 📝**Libraries:**
 
 - **Python** for Programming.
 
@@ -58,7 +58,7 @@ This Project main goal is run an Hypothesis test to examine the relationship bet
 
 
 
-### Insights:
+### 📈Insights:
 
 - Understanding payment preferences helps businesses encourage higher-value payments **(credit cards)** through promotions.
 
@@ -72,7 +72,7 @@ This Project main goal is run an Hypothesis test to examine the relationship bet
 
 
 
-### Recommendations:
+### 💡Recommendations:
 
 - Encourage customers to pay with Credit cards to capitalize on the potential for generating more revenue for taxi cab drivers.
 - Implement strategies such as offring incentives or discounts for credit card transactions to incentivize customers to choose this payment method.
