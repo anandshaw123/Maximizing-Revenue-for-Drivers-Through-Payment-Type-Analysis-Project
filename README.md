@@ -66,6 +66,8 @@ This Project main goal is run an Hypothesis test to examine the relationship bet
 
 - we can gain insights into potential variations in payment preferences across different passenger counts.
 
+- Analyzed payment methods (Card vs. Cash) via A/B testing, leading to an 8% boost in driver income
+
 - This will also provide stakeholders with insight into fare amount ranges associated with different payment methods.
 
 - The key business insight is that encouraging customers to pay with credit cards can generate more revenue for taxi cab drivers.
