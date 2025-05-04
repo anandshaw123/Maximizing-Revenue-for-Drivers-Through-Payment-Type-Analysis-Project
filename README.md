@@ -38,6 +38,8 @@ This Project main goal is run an Hypothesis test to examine the relationship bet
 
 - **Normal Distribution Check**
 
+- **QQ-Plot**
+
 - **Hypothesis Testing**
 
 
