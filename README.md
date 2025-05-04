@@ -24,6 +24,8 @@ This Project main goal is run an Hypothesis test to examine the relationship bet
 
 ## 🛠️The Tasks involved in this project include:
 
+- **Data Cleaning**
+
 - **Exploratory Data Analysis (EDA)**
 
 - **Extracting The Information from the Features**
